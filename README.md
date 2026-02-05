@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Code with</h2>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h2 align="left">I design with</h2>
+<h2 align="left">Design with</h2>
 
 ###
 
